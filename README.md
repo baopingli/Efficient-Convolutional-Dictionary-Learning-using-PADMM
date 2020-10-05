@@ -8,13 +8,13 @@ Efficient convolutional dictionary learning using preconditioned ADMM
 
 In this work, we proposed to diagonally precondition the system matrices in the filter learning sub-problem of convolutional sparse coding (CSC) problem. 
 
-## Installation
+## Requirements
 
-
+- matlab2016a
 
 ## Acknowledgements
 
-This code is partly based on the open-source implementations from the following sources: [FFCSC](https://github.com/baopingli/FFCSC2015)
+This code is partly based on the open-source implementations from the following sources: [Fast and Flexible Convolutional Sparse Coding](https://github.com/baopingli/FFCSC2015).
 
 ## Contact
 
