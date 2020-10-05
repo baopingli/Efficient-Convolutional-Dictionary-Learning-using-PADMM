@@ -14,11 +14,7 @@ In this work, we proposed to diagonally precondition the system matrices in the 
 
 ## Acknowledgements
 
-This code is partly based on the open-source implementations from the following sources: 
-
-[FFCSC]: https://github.com/baopingli/FFCSC2015	"FFCSC"
-
-
+This code is partly based on the open-source implementations from the following sources: [FFCSC](https://github.com/baopingli/FFCSC2015)
 
 ## Contact
 
