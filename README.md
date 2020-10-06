@@ -22,5 +22,3 @@ If you have any questions, feel free to contact us through email (baoping_li@qq.
 
 This repository will be constantly updated.
 
-Enjoy!
-
