@@ -22,3 +22,7 @@ If you have any questions, feel free to contact us through email (baoping_li@qq.
 
 This repository will be constantly updated.
 
+Acknowledgements
+
+This code is partly based on the open-source implementations of the paper: *F. Heide, W. Heidrich, G. Wetzstein "Fast and Flexible Convolutional Sparse Coding", IEEE Conference on Computer Vision and Pattern Recognition (CVPR Oral)*
+
