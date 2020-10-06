@@ -12,13 +12,15 @@ In this work, we proposed to diagonally precondition the system matrices in the 
 
 - matlab2016a
 
-## Acknowledgements
+## Run
 
-This code is partly based on the open-source implementations from the following sources: [Fast and Flexible Convolutional Sparse Coding](https://github.com/baopingli/FFCSC2015).
+run `learn_kernels_2D.m`
 
 ## Contact
 
 If you have any questions, feel free to contact us through email (baoping_li@qq.com) or Github issues.
+
+This repository will be constantly updated.
 
 Enjoy!
 
